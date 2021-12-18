@@ -239,6 +239,13 @@
             ],
             "version": "==0.0.3"
         },
+        "pystan": {
+            "hashes": [
+                "a5ed9a570a6a5db7fa760e71a9d51f0fcd854e13c097fff9aa371a149dc9cc7f"
+            ],
+            "index": "pypi",
+            "version": "==2.9.0.0"
+        },
         "fbprophet": {
             "hashes": [
                 "sha256:3ac63a05caf5117d9c6ed83fa6f9d4ffc207b60a56854c905f2789d8a89c2b6f"
