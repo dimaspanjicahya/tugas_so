@@ -246,12 +246,6 @@
             "index": "pypi",
             "version": "==2.9.0.0"
         },
-        "fbprophet": {
-            "hashes": [
-                "sha256:3ac63a05caf5117d9c6ed83fa6f9d4ffc207b60a56854c905f2789d8a89c2b6f"
-            ],
-            "version": "==0.7.1"
-        },
         "future": {
             "hashes": [
                 "sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d"
