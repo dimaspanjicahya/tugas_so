@@ -250,7 +250,6 @@
             "hashes": [
                 "sha256:3ac63a05caf5117d9c6ed83fa6f9d4ffc207b60a56854c905f2789d8a89c2b6f"
             ],
-            "index": "pypi",
             "version": "==0.7.1"
         },
         "future": {
